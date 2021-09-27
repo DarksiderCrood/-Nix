@@ -17,4 +17,6 @@
 # Sample Output 1
     # Welcome Prashant
 
-echo 'Yo!!'
+#echo "Enter Name:"
+read name
+echo "Welcome $name"
